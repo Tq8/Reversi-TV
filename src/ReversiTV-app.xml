@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.5">
+	<id>ReversiAndroid</id>
+	<supportedProfiles>tv</supportedProfiles>
+	<filename>iReverse</filename>
+	<name>iReverse</name>
+	<versionNumber>0.9</versionNumber>
+	<description>A one or two player Reversi game.</description>
+	<initialWindow>
+		<autoOrients>true</autoOrients>
+		<fullScreen>true</fullScreen>
+		<aspectRatio>landscape</aspectRatio>
+		<content>[This value will be overwritten by Flash Builder in the output app.xml]</content>
+		<title>iReversi</title>
+		<systemChrome>standard</systemChrome>
+		<resizable>true</resizable>
+		<transparent>false</transparent>
+		<visible>true</visible>
+		<width>1280</width>
+		<height>720</height>
+	</initialWindow>
+	<icon>
+		<image57x57>assets/Icon_57.png</image57x57>
+	</icon>
+</application>
