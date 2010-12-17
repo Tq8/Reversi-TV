@@ -4,7 +4,7 @@
 	<supportedProfiles>desktop tv</supportedProfiles>
 	<filename>iReverse</filename>
 	<name>iReverse</name>
-	<versionNumber>0.9</versionNumber>
+	<versionNumber>1.1</versionNumber>
 	<description>A one or two player Reversi game.</description>
 	<initialWindow>
 		<autoOrients>true</autoOrients>
